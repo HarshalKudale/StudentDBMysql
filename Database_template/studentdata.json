@@ -1,0 +1,18 @@
+[
+	{
+		"studentid" : 1,
+		"firstname" : "Harshal",
+		"surname" : "Kudale",
+		"address" : "Github",
+		"gender" : "Male",
+		"mobile" : "1231231233",
+		"maths" : "Yes",
+		"games" : "Yes",
+		"datasci" : "Yes",
+		"analysis" : "Yes",
+		"graphic" : "Yes",
+		"database1" : "Yes",
+		"science" : "Yes",
+		"english" : "Yes"
+	}
+]
