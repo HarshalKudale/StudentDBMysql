@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="StudentDBMysql">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/StudentDBMysql.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
