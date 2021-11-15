@@ -7,7 +7,7 @@ Usage-
 
 1. Create database using given template
 
-2.Setup JDBC connection
+2. Setup JDBC connection
     1. Provide username and password in StudentDBmysql.java
     2. Provide MySQL instance ip address and port
     
