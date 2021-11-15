@@ -27,12 +27,12 @@ public class StudentTest {
     }
     @Test
     public void shouldBaddRecords(){
-        assertTrue(studenttester.addRecords("36","Harshal","Kudale","Hadapsar"));
+        assertTrue(studenttester.addRecords("36","Harshal","Kudale","ABC"));
 //        System.out.println("New Record added from test function");
     }
     @Test
     public void shouldCUpdateRecords(){
-        assertTrue(studenttester.updateRecords(36,"63","Harshal","Kudale","Hadapsar"));
+        assertTrue(studenttester.updateRecords(36,"63","Harshal","Kudale","ABC"));
 //        System.out.println("Record Modified from test function");
     }
     @Test
